@@ -1,3 +1,5 @@
+Testing the Neo Eagle Library for the NEO-M8N.
+
 Eagle Libraries and Boards for AVA HAB Project
 
 Author 	 : Anthony Stirk http://ava.upuaut.net
@@ -16,7 +18,7 @@ BSS138								- Tested
 Through hole SMA					- Tested
 Coilcraft MSS5131					- Untested
 MCP4706 DAC							- Untested
-DS18B20 TO92/µSOP8/SOIC				- Tested
+DS18B20 TO92/ÂµSOP8/SOIC				- Tested
 Panasonic ELLVGG Inductor			- Tested
 EPCOS SAW Filter					- Tested
 Epson FA-20H Crystal				- Untested
